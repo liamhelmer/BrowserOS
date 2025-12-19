@@ -19,6 +19,9 @@
 <a href="https://cdn.browseros.com/download/BrowserOS.deb">
   <img src="https://img.shields.io/badge/Download-Debian-D70A53?style=flat&logo=debian&logoColor=white" alt="Download Debian package" />
 </a>
+<a href="https://files.browseros.com/download/BrowserOS.apk">
+  <img src="https://img.shields.io/badge/Download-Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Download for Android (beta)" />
+</a>
 <br />
 </div>
 
@@ -36,6 +39,7 @@
    - [Windows](https://files.browseros.com/download/BrowserOS_installer.exe)
    - [Linux (AppImage)](https://files.browseros.com/download/BrowserOS.AppImage)
    - [Linux (Debian)](https://cdn.browseros.com/download/BrowserOS.deb)
+   - [Android (APK)](https://files.browseros.com/download/BrowserOS.apk)
 
 2. Import your Chrome data (optional)
 

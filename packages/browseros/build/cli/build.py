@@ -52,6 +52,7 @@ from ..modules.sign.sparkle import SparkleSignModule
 from ..modules.package.macos import MacOSPackageModule
 from ..modules.package.windows import WindowsPackageModule
 from ..modules.package.linux import LinuxPackageModule
+from ..modules.package.android import AndroidPackageModule
 
 AVAILABLE_MODULES = {
     # Setup & Environment
@@ -77,6 +78,7 @@ AVAILABLE_MODULES = {
     "package_macos": MacOSPackageModule,
     "package_windows": WindowsPackageModule,
     "package_linux": LinuxPackageModule,
+    "package_android": AndroidPackageModule,
     # Upload
     "upload": UploadModule,
 }
