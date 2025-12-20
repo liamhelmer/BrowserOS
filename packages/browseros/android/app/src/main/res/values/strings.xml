@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BrowserOS</string>
+    <string name="settings">Settings</string>
+    <string name="mcp_server">MCP Server</string>
+    <string name="mcp_server_running">MCP server running</string>
+    <string name="cdp_port">CDP Port</string>
+    <string name="mcp_port">MCP Port</string>
+    <string name="ai_provider">AI Provider</string>
+    <string name="configure">Configure</string>
+    <string name="openai">OpenAI</string>
+    <string name="anthropic">Anthropic</string>
+    <string name="ollama">Ollama (Local)</string>
+    <string name="api_key">API Key</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="about">About BrowserOS</string>
+    <string name="version">Version</string>
+    <string name="privacy_first">Privacy-first AI browser</string>
+    <string name="new_tab">New Tab</string>
+    <string name="menu">Menu</string>
+</resources>
